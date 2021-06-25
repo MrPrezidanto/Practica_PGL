@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Soprane</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quienes_somos">
+        El Hospital Universitario de Gran Canaria Dr. Negrín es una institución pública del Servicio Canario de la Salud que tiene como misión prestar a sus pacientes una atención sanitaria especializada que satisfaga sus necesidades y expectativas. <br />
+        Para ello, desarrolla un modelo de gestión basado en la calidad total y en la mejora continua, con tres ejes fundamentales: la adecuada atención a los pacientes, la optimización de su organización y funcionamiento y la contribución al progreso y bienestar de la sociedad.
+    </string>
+    <string name="donde_encontrarnos">
+        Calle Plaza Barranco de la Ballena, s/n, 35010 <br />
+        Las Palmas de Gran Canaria, Las Palmas
+    </string>
+</resources>

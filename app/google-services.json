@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "202397077535",
+    "firebase_url": "https://clinicas-soprane.firebaseio.com",
+    "project_id": "clinicas-soprane",
+    "storage_bucket": "clinicas-soprane.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202397077535:android:1e1dec50bdd1fa654e052a",
+        "android_client_info": {
+          "package_name": "LuisAcosta.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202397077535-qh5mah172p8eapa4b93u23690es5dko0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "LuisAcosta.proyecto",
+            "certificate_hash": "ec806958eeae58bdc3193ce1f87128d45bc3d741"
+          }
+        },
+        {
+          "client_id": "202397077535-6vdo8q2qkjpdtqlbvnjr8iiiopa8ocia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJCBwwjDWZy9UGE_fZry_QV7CXa4Vizc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202397077535-6vdo8q2qkjpdtqlbvnjr8iiiopa8ocia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202397077535:android:bcc258c07ac6dc134e052a",
+        "android_client_info": {
+          "package_name": "LuisAcosta.soprane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202397077535-6vdo8q2qkjpdtqlbvnjr8iiiopa8ocia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJCBwwjDWZy9UGE_fZry_QV7CXa4Vizc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202397077535-6vdo8q2qkjpdtqlbvnjr8iiiopa8ocia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
